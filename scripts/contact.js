@@ -26,4 +26,5 @@ contactForm.addEventListener("submit", function (event) {
         msg.textContent = "";
         submitBtn.disabled = false;
     }, 3000);
+    
 });
